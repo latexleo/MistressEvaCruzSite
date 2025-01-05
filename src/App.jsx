@@ -18,7 +18,7 @@ function App() {
         {/* Background Image */}
         <div className="background-image">
           <img
-            src="images/Main.JPEG"
+            src="/images/Main.JPEG"
             alt="Splash Background"
           />
         </div>
