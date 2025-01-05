@@ -17,10 +17,8 @@ function App() {
         </header>
         {/* Background Image */}
         <div className="background-image">
-          <img
-            src="/images/Main.JPEG"
-            alt="Splash Background"
-          />
+        <img src={`${import.meta.env.BASE_URL}images/Main.JPEG`} alt="Splash Background" />
+
         </div>
 
         {/* Social Media Links */}
