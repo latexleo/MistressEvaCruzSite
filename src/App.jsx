@@ -35,6 +35,11 @@ function App() {
                 Instagram
               </a>
             </p>
+            <p>
+              <a style={{ color: 'black' }}href="https://www.amazon.com/hz/wishlist/ls/GR9Z55WR5UF4?ref_=wl_share" target="_blank" rel="noopener noreferrer">
+                Amazon Wishlist
+              </a>
+            </p>
         
         </div>
 
